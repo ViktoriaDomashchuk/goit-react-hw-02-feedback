@@ -44,7 +44,6 @@ export class App extends Component {
           margin: '0 auto',
           flexDirection: 'column',
           gap: '20px',
-          border: '2px solid black',
         }}
       >
         <Section title={'Please leave feedback'}>
