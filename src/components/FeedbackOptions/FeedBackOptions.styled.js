@@ -17,7 +17,6 @@ export const FeedbackOptionsButton = styled.ul`
   box-shadow: 0 -0.5px 26px -8px #76051a;
   cursor: pointer;
   transition: 300ms transform ease-in-out,
-  cursor: pointer;
   &:hover,
   &:focus {
     transform: scale(1.1);
